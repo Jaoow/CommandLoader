@@ -1,0 +1,6 @@
+name: CommandLoader
+version: ${project.version}
+main: com.joaolucas.commandloader.CommandLoader
+authors: [Jaoow]
+commands:
+  example:
